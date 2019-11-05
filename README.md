@@ -9,4 +9,4 @@ Click the link below if you want to play!
 
 https://freddro11.github.io/TriviaGame/
 
-![Starwars Trivia Game](/Users/freddro/class/freddro11.github.io/assets/images/Screen Shot 2019-11-04 at 18.03.08.png)
+
