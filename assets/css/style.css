@@ -1,0 +1,21 @@
+body    {
+    background-image: url(/Users/freddro/class/TriviaGame/assets/images/124154.jpg);
+    background-size: cover; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    color: lightgray;
+}
+
+.list-group {
+    opacity: 0.6;
+    color: black;
+    font-weight: bold;
+    text-align: center
+}
+
+#correct, #wrong, #unanswered  {
+    opacity: 1;
+    color: lightgray;
+    list-style: none;
+}
